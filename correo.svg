@@ -1,17 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Capa_2_00000064316944414347854270000000742585373385029021_"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 56.2 43.5"
-	 style="enable-background:new 0 0 56.2 43.5;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#0099CC;}
-</style>
-<g id="Capa_1-2_00000119110734274735452830000017155476815523962508_">
-	<g id="Capa_1-2">
-		<path class="st0" d="M51,43.5H5.2c-2.9,0-5.2-2.3-5.2-5.2V5.2C0,2.3,2.3,0,5.2,0H51c2.9,0,5.2,2.3,5.2,5.2v33.1
-			C56.2,41.1,53.8,43.5,51,43.5L51,43.5L51,43.5z M6.4,39.7h43.3l-15-15.3l-3.4,3.4c-1.8,1.7-4.7,1.7-6.5,0l-3.4-3.4L6.4,39.7
-			L6.4,39.7z M37.3,21.7l15,15.2V6.5L37.3,21.7L37.3,21.7z M3.8,6.5V37l15-15.2L3.8,6.5z M6.4,3.8l21.1,21.4
-			c0.1,0.2,0.3,0.3,0.5,0.3s0.4-0.1,0.5-0.3L49.7,3.8H6.4z"/>
-	</g>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 56.2 43.5">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #0fbcd6;
+      }
+    </style>
+  </defs>
+  <g id="Capa_1-2">
+    <g id="Capa_1-21" data-name="Capa_1-2">
+      <path class="st0" d="M51,43.5H5.2c-2.9,0-5.2-2.3-5.2-5.2V5.2C0,2.3,2.3,0,5.2,0h45.8C53.9,0,56.2,2.3,56.2,5.2v33.1c0,2.8-2.4,5.2-5.2,5.2h0ZM6.4,39.7h43.3l-15-15.3-3.4,3.4c-1.8,1.7-4.7,1.7-6.5,0l-3.4-3.4-15,15.3h0ZM37.3,21.7l15,15.2V6.5l-15,15.2h0ZM3.8,6.5v30.5l15-15.2L3.8,6.5ZM6.4,3.8l21.1,21.4c.1.2.3.3.5.3s.4-.1.5-.3L49.7,3.8H6.4Z"/>
+    </g>
+  </g>
 </svg>

@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?><svg id="Capa_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 3509.57 512.85"><defs><style>.cls-1{clip-path:url(#clippath);}.cls-2{fill:none;}.cls-2,.cls-3,.cls-4{stroke-width:0px;}.cls-3{fill:#23485a;}.cls-4{fill:#09c;}</style><clipPath id="clippath"><path class="cls-2" d="M.27,0h3493.03c8.98,0,16.27,7.29,16.27,16.27v486.87c0,5.36-4.35,9.71-9.71,9.71H.27V0H.27Z"/></clipPath></defs><g id="Capa_7"><path class="cls-3" d="M.27,0h3493.03c8.98,0,16.27,7.29,16.27,16.27v486.87c0,5.36-4.35,9.71-9.71,9.71H.27V0H.27Z"/><path class="cls-4" d="M0,.68h290.96v35c0,141.27-114.69,255.96-255.96,255.96H0V.68H0Z"/><g class="cls-1"><path class="cls-4" d="M3089.99,222.87c-229.08,0-414.78,185.71-414.78,414.78h.05c0,.34-.05.67-.05,1.02v167.97c137.06,0,258.55-66.51,334.07-168.99h153.57c188.84,0,341.93-153.09,341.93-341.93v-72.86h-414.78Z"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 3509.6 512.8">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #29d18b;
+      }
+
+      .st1 {
+        fill: #004ba4;
+      }
+
+      .st2 {
+        fill: #f7f7f7;
+      }
+    </style>
+  </defs>
+  <rect class="st1" x=".5" y="0" width="3509.3" height="512.9"/>
+  <path class="st0" d="M3220.8,218.6h291v35c0,141.3-114.7,256-256,256h-35V218.6h0Z" transform="translate(6732.6 728.1) rotate(180)"/>
+  <g>
+    <path class="st2" d="M-4.2,267"/>
+    <path class="st2" d="M469.3,244C626.2,200.1,774.6,116.1,890.8.3h-305.5C408.2,91.1,202,102.5,0,72.1l-.4,191.4c155.5,24.8,316.5,23.9,469.7-19.5Z"/>
+  </g>
+</svg>
